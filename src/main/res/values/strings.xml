@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kizomba To Go ™</string>
+    <string name="dummy_button">Media Controller</string>
+    <string name="dummy_content">Lesson1\nVIDEO</string>
+
+    <string name="terms">all media and other associated materials in this app are property of Kizomba Harmony and may not be duplicated or otherwise distributed without the express written consent of Billy Myles or Monica Kay of Kizomba Harmony.</string>
+
+    <string name="FacebookLink"><a href="https://www.facebook.com/KizombaHarmony">Facebook</a></string>
+    <string name="InstagramLink"><a href="https://instagram.com/kizombaharmony/">Instagram</a></string>
+    <string name="YouTubeLink"><a href="https://www.youtube.com/channel/UCpbHGTmIpCw8Y-1WTtKx16A">YouTube</a></string>
+    <string name="TwitterLink"><a href="https://twitter.com/KizombaHarmony">Twitter</a></string>
+    <string name="RadioLink"><a href="https://play.google.com/store/apps/details?id=com.conduit.app_ae9a07a0e2764f84a6450f11f34e4528.app">Criolo Radio</a></string>
+
+    <string name="cFrontLink">http://d1j8wdcfg718zg.cloudfront.net/</string>
+    <string name = "Level1_L1">01+Introduction_1.mp4</string>
+    <string name = "Level1_L2">02+The+Kizomba+Connection_2.mp4</string>
+    <string name = "Level1_L3">03+Basic+1+-+Tarraxinha+Basic_3.mp4</string>
+    <string name = "Level1_L4">04+Basic+2+-+Side+Basic_4.mp4</string>
+    <string name = "Level1_L5">05+The+Kizomba+Walk_5.mp4</string>
+    <string name = "Level1_L6">06+The+Balance+Step_6.mp4</string>
+    <string name = "Level1_L7">07+90+Degree+Left+Turn_7.mp4</string>
+    <string name = "Level1_L8">08+The+Cha+Cha+Step_8.mp4</string>
+    <string name = "Level1_L9">09+Cha+Cha+Variations_9.mp4</string>
+    <string name = "Level1_L10">11+Rotational+Walking_11.mp4</string>
+    <string name = "Level1_L11">10+Level+1+Demo_10.mp4</string>
+    <string name = "Level1_L12">12+Thank+You_12.mp4</string>
+
+    <string name="Introduction">Introduction</string>
+    <string name="KizombaConnection">The Kizomba Connection</string>
+    <string name="Basic1">Basic 1 - Tarraxinha Basic</string>
+    <string name="Basic2">Basic 2 - Side Basic</string>
+    <string name="KizombaWalk">The Kizomba Walk</string>
+    <string name="BalanceStep">The Balance Step</string>
+    <string name="Degree90">90 Degree Left Turn</string>
+    <string name="ChaChaStep">The Cha Cha Step</string>
+    <string name="ChaChaVar">Cha Cha Variations</string>
+    <string name="RotationalWalking">Rotational Walking</string>
+    <string name="Demo1">Level 1 Demo</string>
+    <string name="ThankYou">Thank You</string>
+
+    <string-array name="Level1_Lessons">
+        <item>@string/Level1_L1</item>
+        <item>@string/Level1_L2</item>
+        <item>@string/Level1_L3</item>
+        <item>@string/Level1_L4</item>
+        <item>@string/Level1_L5</item>
+        <item>@string/Level1_L6</item>
+        <item>@string/Level1_L7</item>
+        <item>@string/Level1_L8</item>
+        <item>@string/Level1_L9</item>
+        <item>@string/Level1_L10</item>
+        <item>@string/Level1_L11</item>
+        <item>@string/Level1_L12</item>
+    </string-array>
+
+    <string-array name="Level1_LessonNames">
+        <item>@string/Introduction</item>
+        <item>@string/KizombaConnection</item>
+        <item>@string/Basic1</item>
+        <item>@string/Basic2</item>
+        <item>@string/KizombaWalk</item>
+        <item>@string/BalanceStep</item>
+        <item>@string/Degree90</item>
+        <item>@string/ChaChaStep</item>
+        <item>@string/ChaChaVar</item>
+        <item>@string/RotationalWalking</item>
+        <item>@string/Demo1</item>
+        <item>@string/ThankYou</item>
+    </string-array>
+
+
+</resources>
